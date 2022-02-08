@@ -29,7 +29,7 @@ To get a local copy up and running follow these simple example steps.
 - HTML 
 - CSS
 
-## Authors
+## Author
 
 👤 **Evans**
 
@@ -54,6 +54,6 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - etc
 
-## 📝 License
+
 
 This project is [MIT](./MIT.md) licensed.
