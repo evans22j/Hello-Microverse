@@ -52,7 +52,7 @@ Give a ⭐️ if you like this project!
 
 
 
-This project is [MIT](./M![](https://img.shields.io/badge/Microverse-blueviolet)
+This project is [MIT](.(https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
 
