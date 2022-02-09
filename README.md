@@ -6,7 +6,6 @@
 
 
 
-
 ## Built With
 
 - HTML
@@ -65,8 +64,6 @@ This project is [MIT](./M![](https://img.shields.io/badge/Microverse-blueviolet)
 - Major languages
 - Frameworks
 - Technologies used
-
-## Live Demo (if available)
 
 
 ## Getting Started
